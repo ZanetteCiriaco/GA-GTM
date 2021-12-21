@@ -1,0 +1,6 @@
+framework module Pods_GTM {
+  umbrella header "Pods-GTM-umbrella.h"
+
+  export *
+  module * { export * }
+}
